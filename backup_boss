@@ -131,3 +131,52 @@ nogencheck = 0
 before_alert_ment = 입니다
 alert_ment =  탐 입니다. 해룡산맥 어둠숲 남부로 오세요
 mungtime = 0
+
+bossname = 몽혼
+gentime = 00:45
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해월대륙 개척자 위령 묘지로 오세요
+mungtime = 0
+
+bossname = 해변의왕, 해변왕, 해변
+gentime = 00:45
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해월대륙 도깨비 해변으로 오세요
+mungtime = 0
+
+bossname = 벌판위의왕, 벌판왕, 벌판
+gentime = 00:45
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해월대륙 단풍노을 골짜기로 오세요
+mungtime = 0
+
+bossname = 흑룡
+gentime = 00:45
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해월대륙 일성관 야영지로 오세요
+mungtime = 0
+
+bossname = 청묘
+gentime = 00:45
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해월대륙 비옥 폭포로 오세요
+mungtime = 0
+
+bossname = 발루
+gentime = 00:45
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해월대륙 탁회암 협곡으로 오세요
+mungtime = 0
+
+bossname = 모구오
+gentime = 00:45
+nogencheck = 1
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해월대륙 솟을바위산으로 오세요
+mungtime = 0
