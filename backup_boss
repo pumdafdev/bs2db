@@ -118,3 +118,16 @@ startDate = 2021-11-14
 before_alert_ment = 입니다
 alert_ment =  탐 입니다. 이벤트 보스 맵으로 오세요
 
+bossname = 침식홍돈팔, 침돈팔, 심돈팔
+gentime = 10:00
+nogencheck = 0
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해룡산맥 포식자의 구릉지로 오세요
+mungtime = 0
+
+bossname = 침식대인, 침식대인면충, 침대인, 심대인
+gentime = 10:00
+nogencheck = 0
+before_alert_ment = 입니다
+alert_ment =  탐 입니다. 해룡산맥 어둠숲 남부로 오세요
+mungtime = 0
